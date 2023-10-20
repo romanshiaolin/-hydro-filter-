@@ -1,10 +1,9 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
 
-_INSTRUCTIONS: This GitHub repository serves as a template you can use to create a new project for the [2023 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/). Use the **Use this template** button to create a new version of this repository and start entering content for your own Call for Code submission project. Make sure you have [registered for the 2023 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/register/) to access resources and full project submission instructions. Remove any "INSTRUCTIONS" sections when you are ready to submit your project._
+_INSTRUCTIONS: The hydro-filter is a small simple household sewage filtration device. A small, modular way to make ideas artificially. Able to adapt to a variety of gutter types and installed in gutters next to the street. In addition to making the sewage treatment system more integrated into nature and our lives. 
+This free online course will get you up to speed quickly: [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)_.
 
-_New to Git and GitHub? This free online course will get you up to speed quickly: [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)_.
-
-# Replace this heading with your team/submission name
+# hydro-filter (Small sewage purification basket)
 
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
@@ -31,21 +30,78 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ## Project summary
 
+The hydro-filter is a small simple household sewage filtration device. A small, modular way to make ideas artificially. Able to adapt to a variety of gutter types and installed in gutters next to the street. In addition to making the sewage treatment system more integrated into nature and our lives. At the same time, the work of the current water purification field is shared, and the phosphorus and nitrogen are initially decomposed, so that the water purification plant has the spare capacity to treat other harmful substances.Solve the problems of gradually large population in the future. Improve the drainage ditch next to the house so that it no longer emits a foul smell. The hydro-filter references the configuration of constructed wetlands and uses floating materials and plants that absorb nitrogen and phosphorus.
+
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+1.Domestic sewage is the largest source of pollution : 
+
+According to the EPD, 81.1% of the country's water pollution comes from domestic sewage, 10.3% from livestock and 8.7% from industry. Analyzing the 9 serious pollution stations in Taiwan, 6 stations are mainly from domestic sewage, 3 stations are livestock wastewater, especially ammonia nitrogen pollution is the most significant. In recent years, due to economic growth, a large number of people have flocked to the Taipei metropolitan area.According to statistics, the ratio of domestic sewage to industrial wastewater pollution is about 9:1.
+
+2.The capacity of sewage treatment plants is insufficient and the speed of construction cannot keep up with the speed of demand :
+
+In Taiwan, the penetration rate of sewers will only reach 40% by 2022, and if it is to reach 55% by 2020 according to the plan of the Ministry of Internal Affairs and Construction Agency, there must be enough sewage treatment plants with sewage sewers.
+
+3.Dislike facilities :
+
+Some people believe that the sewage treatment plant is an abhorrent facility and have been rejected and protested by the people. For example, in 2008, when the Tainan municipal government wanted to build a sewage treatment plant in Wanli, local residents felt that the location of the sewage plant was too close to the community and would affect local development, and demanded that the location be changed.
+
+4.Population growth :
+
+The global population is expected to cross the 8 billion mark on November 15, 2022, and by 2023 the world's population will grow to 8.5 billion, and by 2100, the total population is estimated to be about 10.4 billion.
+
+5.The gutter smells foul :
+
+The stench emitted by household sewage when passing by the gutters always makes nearby residents uncomfortable.
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+Bring people closer to nature : 
 
-### Our idea
+The growth of plants and microorganisms comes from the organic matter of sewage. By planting plants on the ditch, it not only contributes to the transformation of sewage, but also makes the surrounding city full of greenery.
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
+As the water level rises : 
 
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+When the amount of water increases, because the floating foam is arranged under the basket, the basket and the plants are also raised together to avoid the death of the plants. At the same time, it also prevents the sewage from blocking the ditch when there is a heavy rain.
+
+Modularization : 
+
+Referring to the model of the constructed wetland, it is modularized and put into the ditch. Because it takes up little space and is small in size, it can be adapted to a variety of gutters.
+
+Reduce the load on the sewage plant and expand the filtration system : 
+
+When water passes through a small constructed wetland, the water flow slows down and the porous medium inside absorbs phosphorus and heavy metals, while nitrogen and nutrients are digested by plant root microorganisms and converted into nutrients needed by plants. Before entering the sewage field, let the small-scale constructed wetland treat the sewage of the people's livelihood, and then the industrial waste water that needs to be treated by the sewage plant can be treated.
+
+Waste reuse : 
+
+Blast furnace slag and fly ash are added to the filter material, which has good adsorption of phosphorus.
+
+### Our idea 
+
+Square trench installation steps :
+1. First place the float of the HDEP material into the upper grid.
+2. Then thread the screw through the hole in the basket and lock it into the floating thread.
+3. Put a combination of soil and sand and gravel, together with plants.
+4. The guide rod first passes through the guide hole of the filter.
+5. Then put the holes in the four corners of the guide rod bracket and screw it in.
+6. Then put the bracket together with the strainer and plants into the drain.
+7. Make sure the frame is aligned with the gutter hole.
+
+Round trench installation steps :
+
+1. Install the round outer frame in the round hole.
+2. Then put the bracket, together with the strainer and plants strung together, into the circular drainage hole.
+3. Finally, close the iron lid 
 
 ## Technology implementation
+
+Use oyster shells, limestone, basalt, fly ash, plant and other materials to Carry out preliminary nitrogen and phosphorus removal.hydro filter contribute with three filter layers
+Upper layer: rushe s, reeds, water spinach
+Most of these plants have broad root systems to facilitate the absorption of organic matter and the survival of organisms.
+Middle layer: gravel, straw, light clay
+It is mainly to prevent mosquitoes from laying eggs in water and increase disease mosquitoes.
+Substratum: oyster shells, limestone, basalt, fly ash
+Absorb organic substances and heavy metals.
 
 ### IBM AI service(s) used
 
@@ -77,9 +133,7 @@ Diagram and step-by-step description of the flow of our solution:
 
 _INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
 
-### Solution demo video
-
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+ 
 
 ### Project development roadmap
 
@@ -101,17 +155,10 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 
 ### How to run the project
 
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+Collect industrial furnace stone and fly ash from coal-fired power generation boilers and cement plant boilers. At the same time, discarded oyster shells are collected at the beach and then sent to the recycling site for crushing and crushing to reduce garbage accumulation. Then mix the above two materials into planting soil.
+The hydro filter frame is manufactured by plastic float manufacturers, ironware and ditch cover manufacturers.
+Finally, the hydro filter is sent to the ditch for assembly and use.
 
-### Live demo
-
-You can find a running system to test at...
-
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
-
----
-
-_INSTRUCTIONS: You can remove the below section from your specific project README._
 
 ## About this template
 
@@ -119,21 +166,14 @@ _INSTRUCTIONS: You can remove the below section from your specific project READM
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ### Authors
 
 <a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **wen-yeh,shiao lin** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
-### License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
 
